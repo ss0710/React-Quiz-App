@@ -16,7 +16,7 @@ const Instructions = () => {
                     <div className="inst_list">
                         <ul>
                             <li className="list_li">
-                                <p>You will get 5 minutes to complete the Quizz.</p>
+                                <p>You will get 2 minutes to complete the Quizz.</p>
                             </li>
                             <li className="list_li">
                                 <p>The Quiz consist of 15 questions.</p>
@@ -28,7 +28,7 @@ const Instructions = () => {
                                 <p>Be carefull while marking answers, Once you select the answer then you cannot change it.</p>
                             </li>
                             <li className="list_li">
-                                <p>You will get three hints for each game</p>
+                                <p>You will get 5 hints for each game</p>
                             </li>
                             <li className="list_li">
                                 <p>Using hint will remove one wrong answer.</p>
