@@ -24,99 +24,99 @@
         "answer": "cc"
     },
     {
-        "questions": "A local variable is stored in ___",
-        "optionA": "Code segment",
-        "optionB": "Stack segment",
-        "optionC": "Heap segment",
-        "optionD": "None of the above",
-        "answer": "Stack segment"
+        "questions": "By default the members of the structure are",
+        "optionA": "private",
+        "optionB": "protected",
+        "optionC": "public",
+        "optionD": "Access specifiers not applicable for structures.",
+        "answer": "public"
     },
     {
-        "questions": "In the given statement, what does the “arr” indicate?  char *arr[30];",
-        "optionA": "arr is a array of function",
-        "optionB": "arr is a array of 30 characters",
-        "optionC": "arr is a pointer to an array",
-        "optionD": "arr is a array of 30 character pointers",
-        "answer": "arr is a array of 30 character pointers"
+        "questions": "Class function which is called automatically as soon as the object is created is called as __",
+        "optionA": "Constructor",
+        "optionB": "Destructor",
+        "optionC": "Friend function",
+        "optionD": "Inline function",
+        "answer": "Constructor"
     },
     {
-        "questions": "Identify the C compiler of UNIX.",
-        "optionA": "gcc",
-        "optionB": "cc",
-        "optionC": "Borland",
-        "optionD": "vc++",
-        "answer": "cc"
+        "questions": "Which built-in method calls a function for each element in the array?",
+        "optionA": "while()",
+        "optionB": "loop()",
+        "optionC": "forEach()",
+        "optionD": "None of the above.",
+        "answer": "forEach()"
     },
     {
-        "questions": "A local variable is stored in ___",
-        "optionA": "Code segment",
-        "optionB": "Stack segment",
-        "optionC": "Heap segment",
-        "optionD": "None of the above",
-        "answer": "Stack segment"
+        "questions": "Which built-in method returns the calling string value converted to lower case?",
+        "optionA": "toLowerCase()",
+        "optionB": "toLower()",
+        "optionC": "changeCase(case)",
+        "optionD": "None of the above.",
+        "answer": "toLowerCase()"
     },
     {
-        "questions": "In the given statement, what does the “arr” indicate?  char *arr[30];",
-        "optionA": "arr is a array of function",
-        "optionB": "arr is a array of 30 characters",
-        "optionC": "arr is a pointer to an array",
-        "optionD": "arr is a array of 30 character pointers",
-        "answer": "arr is a array of 30 character pointers"
+        "questions": "Which of the following selector matches a particular element only when it lies inside a particular element?",
+        "optionA": "The Type Selector",
+        "optionB": "The Universal Selector",
+        "optionC": "The Descendant Selector",
+        "optionD": "The Class Selector",
+        "answer": "The Descendant Selector"
     },
     {
-        "questions": "Identify the C compiler of UNIX.",
-        "optionA": "gcc",
-        "optionB": "cc",
-        "optionC": "Borland",
-        "optionD": "vc++",
-        "answer": "cc"
+        "questions": "Which of the following property of a anchor element signifies visited hyperlinks?",
+        "optionA": ":link",
+        "optionB": ":visited",
+        "optionC": ":hover",
+        "optionD": ":active",
+        "answer": "visited"
     },
     {
-        "questions": "A local variable is stored in ___",
-        "optionA": "Code segment",
-        "optionB": "Stack segment",
-        "optionC": "Heap segment",
-        "optionD": "None of the above",
-        "answer": "Stack segment"
+        "questions": "Which of the following property is used to set the color of a text?",
+        "optionA": "color",
+        "optionB": "direction",
+        "optionC": "letter-spacing",
+        "optionD": "word-spacing",
+        "answer": "color"
     },
     {
-        "questions": "In the given statement, what does the “arr” indicate?  char *arr[30];",
-        "optionA": "arr is a array of function",
-        "optionB": "arr is a array of 30 characters",
-        "optionC": "arr is a pointer to an array",
-        "optionD": "arr is a array of 30 character pointers",
-        "answer": "arr is a array of 30 character pointers"
+        "questions": "Which of the following tag can be used to mark up a conversation in HTML5?",
+        "optionA": "footer",
+        "optionB": "nav",
+        "optionC": "dialog",
+        "optionD": "figure",
+        "answer": "dialog"
     },
     {
-        "questions": "Identify the C compiler of UNIX.",
-        "optionA": "gcc",
-        "optionB": "cc",
-        "optionC": "Borland",
-        "optionD": "vc++",
-        "answer": "cc"
+        "questions": "Which of the following tag is used to represent the result of different types of output in HTML5?",
+        "optionA": "output",
+        "optionB": "placeholder",
+        "optionC": "autofocus",
+        "optionD": "required",
+        "answer": "output"
     },
     {
-        "questions": "A local variable is stored in ___",
-        "optionA": "Code segment",
-        "optionB": "Stack segment",
-        "optionC": "Heap segment",
-        "optionD": "None of the above",
-        "answer": "Stack segment"
+        "questions": "Which of the following attribute specifies if the element must have it's spelling or grammar checked?",
+        "optionA": "item",
+        "optionB": "itemcheck",
+        "optionC": "spellcheck",
+        "optionD": "itemgroup",
+        "answer": "spellcheck"
     },
     {
-        "questions": "In the given statement, what does the “arr” indicate?  char *arr[30];",
-        "optionA": "arr is a array of function",
-        "optionB": "arr is a array of 30 characters",
-        "optionC": "arr is a pointer to an array",
-        "optionD": "arr is a array of 30 character pointers",
-        "answer": "arr is a array of 30 character pointers"
+        "questions": "Which of the following is correct Content-type header that a server side script should send for SSE in HTML5?",
+        "optionA": "Content-Type: text/event-stream",
+        "optionB": "Content-Type: text/application-stream",
+        "optionC": "Content-Type: text/data-stream",
+        "optionD": "None of the above.",
+        "answer": "Content-Type: text/event-stream"
     },
     {
-        "questions": "Identify the C compiler of UNIX.",
-        "optionA": "gcc",
-        "optionB": "cc",
-        "optionC": "Borland",
-        "optionD": "vc++",
-        "answer": "cc"
+        "questions": "Which of the following attribute triggers event when an element has been dragged to a valid drop target?",
+        "optionA": "ondragleave",
+        "optionB": "ondrag",
+        "optionC": "ondragend",
+        "optionD": "ondragenter",
+        "answer": "ondragenter"
     }  
 ]

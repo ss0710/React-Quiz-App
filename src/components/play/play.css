@@ -57,22 +57,19 @@
     background-color: rgb(108, 252, 89);
 }
 
-.options-container p:hover{
-    cursor: pointer;
-    box-shadow: 4px 4px 10px rgb(71, 71, 71);
-    text-align: center;
-    padding:5px;
-    margin-left: 5px;
-    margin-bottom: 15px;
-    margin-right: 10px;
-    border-radius:10px;
-    background-color: rgb(66, 214, 47);
-}
-
 
 .button-container{
     padding:20px;
     text-align: center;
+}
+
+.timer-container{
+    font-size: 3rem;
+}
+
+.clock{
+    font-size: 1rem;
+    color:red;
 }
 
 .button-container button{

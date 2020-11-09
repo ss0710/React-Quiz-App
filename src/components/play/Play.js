@@ -240,6 +240,7 @@ class Play extends React.Component {
                 </Fragment>
                 <div className="questions-container">
                 <div className="questions">
+        
                     <div className="lifeline-container">
                         <p className="lifeline-hint">
                             <span onClick={this.handleHints}><i className="fa fa-lightbulb-o fa-3x hints-icon" aria-hidden="true"></i></span>{hints}
@@ -249,7 +250,7 @@ class Play extends React.Component {
                         </p>
                     </div>
                     <div className="timer-container">
-                    <p><i className="fa fa-clock-o" aria-hidden="true"></i>{time.minutes}:{time.seconds}</p>
+                    <p><i className="fa fa-clock-o fa-1x clock" aria-hidden="true"></i>{time.minutes}:{time.seconds}</p>
                     </div>
                     <div className="question-div">
                     <h5>{currentQuestion.questions}</h5>
