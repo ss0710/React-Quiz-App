@@ -1,0 +1,122 @@
+[
+    {
+        "questions": "A local variable is stored in ___",
+        "optionA": "Code segment",
+        "optionB": "Stack segment",
+        "optionC": "Heap segment",
+        "optionD": "None of the above",
+        "answer": "Stack segment"
+    },
+    {
+        "questions": "In the given statement, what does the “arr” indicate?  char *arr[30];",
+        "optionA": "arr is a array of function",
+        "optionB": "arr is a array of 30 characters",
+        "optionC": "arr is a pointer to an array",
+        "optionD": "arr is a array of 30 character pointers",
+        "answer": "arr is a array of 30 character pointers"
+    },
+    {
+        "questions": "Identify the C compiler of UNIX.",
+        "optionA": "gcc",
+        "optionB": "cc",
+        "optionC": "Borland",
+        "optionD": "vc++",
+        "answer": "cc"
+    },
+    {
+        "questions": "A local variable is stored in ___",
+        "optionA": "Code segment",
+        "optionB": "Stack segment",
+        "optionC": "Heap segment",
+        "optionD": "None of the above",
+        "answer": "Stack segment"
+    },
+    {
+        "questions": "In the given statement, what does the “arr” indicate?  char *arr[30];",
+        "optionA": "arr is a array of function",
+        "optionB": "arr is a array of 30 characters",
+        "optionC": "arr is a pointer to an array",
+        "optionD": "arr is a array of 30 character pointers",
+        "answer": "arr is a array of 30 character pointers"
+    },
+    {
+        "questions": "Identify the C compiler of UNIX.",
+        "optionA": "gcc",
+        "optionB": "cc",
+        "optionC": "Borland",
+        "optionD": "vc++",
+        "answer": "cc"
+    },
+    {
+        "questions": "A local variable is stored in ___",
+        "optionA": "Code segment",
+        "optionB": "Stack segment",
+        "optionC": "Heap segment",
+        "optionD": "None of the above",
+        "answer": "Stack segment"
+    },
+    {
+        "questions": "In the given statement, what does the “arr” indicate?  char *arr[30];",
+        "optionA": "arr is a array of function",
+        "optionB": "arr is a array of 30 characters",
+        "optionC": "arr is a pointer to an array",
+        "optionD": "arr is a array of 30 character pointers",
+        "answer": "arr is a array of 30 character pointers"
+    },
+    {
+        "questions": "Identify the C compiler of UNIX.",
+        "optionA": "gcc",
+        "optionB": "cc",
+        "optionC": "Borland",
+        "optionD": "vc++",
+        "answer": "cc"
+    },
+    {
+        "questions": "A local variable is stored in ___",
+        "optionA": "Code segment",
+        "optionB": "Stack segment",
+        "optionC": "Heap segment",
+        "optionD": "None of the above",
+        "answer": "Stack segment"
+    },
+    {
+        "questions": "In the given statement, what does the “arr” indicate?  char *arr[30];",
+        "optionA": "arr is a array of function",
+        "optionB": "arr is a array of 30 characters",
+        "optionC": "arr is a pointer to an array",
+        "optionD": "arr is a array of 30 character pointers",
+        "answer": "arr is a array of 30 character pointers"
+    },
+    {
+        "questions": "Identify the C compiler of UNIX.",
+        "optionA": "gcc",
+        "optionB": "cc",
+        "optionC": "Borland",
+        "optionD": "vc++",
+        "answer": "cc"
+    },
+    {
+        "questions": "A local variable is stored in ___",
+        "optionA": "Code segment",
+        "optionB": "Stack segment",
+        "optionC": "Heap segment",
+        "optionD": "None of the above",
+        "answer": "Stack segment"
+    },
+    {
+        "questions": "In the given statement, what does the “arr” indicate?  char *arr[30];",
+        "optionA": "arr is a array of function",
+        "optionB": "arr is a array of 30 characters",
+        "optionC": "arr is a pointer to an array",
+        "optionD": "arr is a array of 30 character pointers",
+        "answer": "arr is a array of 30 character pointers"
+    },
+    {
+        "questions": "Identify the C compiler of UNIX.",
+        "optionA": "gcc",
+        "optionB": "cc",
+        "optionC": "Borland",
+        "optionD": "vc++",
+        "answer": "cc"
+    }  
+]

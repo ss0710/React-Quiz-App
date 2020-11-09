@@ -1,0 +1,80 @@
+.summary-outer-div{
+    height: 100vh;
+    background-color: rgb(136, 234, 241);
+    padding:20px;
+}
+
+.summary-inner-div{
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px 5px rgb(70, 68, 68);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40%;
+    height: 95vh;
+    background-color: rgb(217, 243, 243);
+}
+
+.result-icon{
+    text-align: center;   
+}
+
+.trophy{
+    color:rgb(24, 219, 24);
+    transform: rotate(20deg);
+}
+.result{
+    color:rgb(223, 109, 16);
+    transform: rotate(-5deg);
+    margin-top: 20px;
+}
+
+.result-heading{
+    text-align: center;
+    font-weight: bold;
+}
+
+.score-div{
+    text-align: center;
+}
+
+.score-div-p{
+    font-size: 10px;
+}
+
+.summary-details li{
+    margin-left: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+
+.summary-buttons{
+    text-align: center;
+}
+
+.summary-buttons button{
+    font-size: 1.2rem;
+    padding:10px;
+    width: 100px;
+    margin-right:10px;
+    margin-left:10px;
+    border-radius: 20px;
+    background-color: rgb(59, 216, 45);
+    color:white;
+    border:2px solid white;
+    box-shadow: 5px 5px 10px rgb(94, 90, 90);
+    cursor: pointer;
+}
+
+
+@media (max-width: 1028px){
+    .summary-inner-div{
+        border-radius: 10px;
+        box-shadow: 5px 5px 20px 5px rgb(70, 68, 68);
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 90%;
+        height: 95vh;
+        background-color: rgb(217, 243, 243);
+    }
+}
